@@ -1,0 +1,104 @@
+body{
+	font-family: 'Hind Siliguri', sans-serif;
+	font-weight: bold;
+}
+.titlesign{
+	width: 200px;
+	margin-top: -40px;
+	margin-left:-10px;
+}
+.inner{
+	padding:0 4rem 0 1rem;
+}
+.masthead{
+	width:100%;
+	left:0;
+	position:relative;
+}
+.masthead-brand{
+	margin:0;
+	left:0;
+}
+.masthead-nav{
+	padding-top: 2rem;
+}
+.homepage.navbar.navbar-default{
+	background-color: transparent;
+	border-color:transparent;
+}
+.navbar-brand{
+	padding:0;
+}
+.navbar-default.navbar-collapse{
+	border-color:transparent;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color:transparent;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header{
+	margin-top:30px;
+	margin-right: -40px;
+}
+.dropdown-menu{
+	background-color: rgb(255,255,255);
+}
+.dropdown-toggle{
+	background-color: transparent;
+}
+.btn-group.open .dropdown-toggle{
+	-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.1);
+	        box-shadow: inset 0 3px 5px rgba(0,0,0,.1);
+}
+.btn-group.open .dropdown-toggle.btn-link{
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+}
+.navbar-default .navbar-nav>li>a{
+	color:rgba(255,255,255,.8);
+}
+.dropdown-menu>li>a {
+	color:rgba(255,255,255,.8);
+}
+@media(min-width:415px){
+	.titlesign{
+		width:200px;
+		margin-top: -40px;
+	}
+	.text{
+		margin-top: 3rem;
+	}
+}
+@media (max-width: 767px){
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color:rgba(255,255,255,.8);
+}
+}
+.allcontainer{
+	color:black;
+	text-align:left;
+	text-shadow: none;
+	margin:3rem;
+}
+.aboutpyro{
+	text-align:right;
+}
+.paintings{
+	margin-top: 5rem;
+}
+.paintings div{
+	margin-top: 5rem;
+}
+.picinfo{
+	text-align: center;
+	margin-bottom: 0;
+	margin-top:1rem;
+}
+.subinfo{
+	text-align: center;
+	font-weight: normal;
+	color:grey;
+}
+.slidearrow{
+	position: relative;
+	top:-500px;
+}
