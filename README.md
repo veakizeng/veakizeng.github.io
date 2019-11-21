@@ -1,6 +1,6 @@
 # veakizeng.github.io
-![imagesing](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/veakizengsign1.png)
-![imagesign](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/veakizengsign2.png)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/veakizengsign1.png)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/veakizengsign2.png)
 ![imageop](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/op/1.jpg)
 ![imageop](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/op/2.jpg)
 ![imagepro1](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/noshadows/1.jpg)
@@ -83,3 +83,5 @@
 ![imagecmcl](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/commercial/2.jpg)
 ![imagecmcl](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/commercial/3.jpg)
 ![imagecmcl](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/commercial/4.jpg)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/left.png)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/right.png)
