@@ -112,3 +112,5 @@
 ![imageoth](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/others/28.jpg)
 ![imageoth](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/others/29.jpg)
 ![imageoth](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/others/30.jpg)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/ins.jpg)
+![image](https://github.com/veakizeng/veakizeng.github.io/blob/master/images/aboutme.jpg)
